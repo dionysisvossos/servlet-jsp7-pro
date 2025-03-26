@@ -26,8 +26,8 @@ public class TeachersViewController extends HttpServlet {
                 new Teacher(3L, "Κώστας", "Ανδρούτσος"),
                 new Teacher(4L, "Δημήτρης", "Αποστόλου"),
                 new Teacher(5L, "Ελένη", "Μασκαρή"),
-                new Teacher(1L, "Ευάγγελος", "Γεωργίου"),
-                new Teacher(1L, "Διονύσης", "Βόσσος")
+                new Teacher(6L, "Ευάγγελος", "Γεωργίου"),
+                new Teacher(7L, "Διονύσης", "Βόσσος")
         );
         String message = "";
 
